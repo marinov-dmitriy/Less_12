@@ -290,27 +290,27 @@ height: 60px;
 	top: 176px;
 	left: 240px;
 }
-.headconttwo{
+body:hover .headconttwo{
 	transform: rotate(-180900deg);
 	transition: 260s;
 }
-.headmid{
+body:hover .headmid{
 	transform: rotate(-90200deg);
 	transition: 250s;
 }
-.headsmall {
+body:hover .headsmall {
 	transform: rotate(-149800deg);
 	transition: 240s;
 }
-.headmidtop{
+body:hover .headmidtop{
 	transform: rotate(88200deg);
 	transition: 260s;
 }
-.head{
+body:hover .head{
 	transform: rotate(85200deg);
 	transition: 260s;
 }
-.headcont{
+body:hover .headcont{
 	transform: rotate(70500deg);
 	transition: 290s;
 }
